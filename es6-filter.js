@@ -1,4 +1,4 @@
-/* How to use the fat arrow to filter an 
+/* How to use the fat arrow to filter() an 
    array of objects in ES6
 
 */
